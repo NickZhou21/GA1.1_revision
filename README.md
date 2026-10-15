@@ -1,0 +1,1 @@
+Add function: add functions takes two inputs (a, b) and adds them together, the inputs have to be numbers. 
