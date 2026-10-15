@@ -1,0 +1,1 @@
+substract function substracts numbers
