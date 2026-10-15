@@ -1,1 +1,2 @@
-Add function: add functions takes two inputs (a, b) and adds them together, the inputs have to be numbers. 
+Add function adds numbers (a,b)
+substract function substracts numbers (a,b)
